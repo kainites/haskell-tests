@@ -1,4 +1,4 @@
-module t2023 where
+module T2023 where
 
 import Data.List
 import Data.Char
